@@ -11,7 +11,7 @@
 | Total Marks | 50 |
 | JDK | OpenJDK 21.0.12.1 |
 | Platform | Linux x86-64 |
-| Repository | `CSA09-Java/Assignment-3` |
+| Repository | [`CSA09-Java/Assignment-3`](https://github.com/sameershaik78/CSA0915-PROGRAMMING-IN-JAVA/tree/main/CSA0915-192425383-ASSIGNMENT%203) |
 
 > **Pair-work note.** This assignment is set as pair work with alternating
 > individual responsibilities. The questions below are answered in full, with
