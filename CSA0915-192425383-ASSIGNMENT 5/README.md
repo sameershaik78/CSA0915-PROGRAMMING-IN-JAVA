@@ -1,11 +1,11 @@
 # Assignment 5 - Data Persistence Engineering
 
-- Student: **Emad Farooqui**
-- Register number: **192511019**
+- Student: **SHAIK SAMEER PASHA**
+- Register number: **192425383**
 - Java: **Microsoft OpenJDK 17.0.20**
 - Database used for experiments: **MySQL 8.4.5 / InnoDB**
 - JDBC driver: **MySQL Connector/J 9.2.0**
-- Repository: https://github.com/Emadfar007/CSA0915-192511019
+- Repository:(https://github.com/sameershaik78/CSA0915-PROGRAMMING-IN-JAVA)
 - Folder: `Assignment 5/`
 
 ## Task map
