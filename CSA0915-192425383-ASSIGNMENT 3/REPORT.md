@@ -4,8 +4,8 @@
 
 | | |
 |---|---|
-| Name | Vignesh S |
-| Register Number | 192325002 |
+| Name | SHAIK SAMEER PASHA |
+| Register Number | 192425383 |
 | Course | CSA09 - Programming in Java |
 | Assignment | 3 (CO3) |
 | Total Marks | 50 |
