@@ -1,7 +1,7 @@
 # Task07 - Part B2: Adversarial Input
 
-- Student: Emad Farooqui
-- Register number: 192511019
+- Student: SHAIK SAMEER PASHA
+- Register number: 192425383
 - Java version: Microsoft OpenJDK 17.0.20
 - Test database: local MySQL 8.4.5, database `assignment5_test`
 
