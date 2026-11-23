@@ -1,7 +1,7 @@
 # Task06 - Part B1: File Store and I/O Experiments
 
-- Student: Emad Farooqui
-- Register number: 192511019
+- Student: SHAIK SAMEER PASHA
+- Register number: 192425383
 - Java version: Microsoft OpenJDK 17.0.20
 
 ## Compile and run
