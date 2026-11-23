@@ -1,7 +1,7 @@
 # Task02 - Part A2: Buffered I/O
 
-- Student: Emad Farooqui
-- Register number: 192511019
+- Student: SHAIK SAMEER PASHA
+- Register number: 192425383
 - Java version: Microsoft OpenJDK 17.0.20
 
 `analysis-and-pseudocode.md` provides the required call prediction, buffered redesign, operating-system explanation, limitation and comparison with `Files.readAllLines()`.
