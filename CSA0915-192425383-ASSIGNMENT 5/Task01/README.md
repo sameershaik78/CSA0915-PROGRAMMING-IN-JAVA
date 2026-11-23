@@ -1,7 +1,7 @@
 # Task01 - Part A1: Design a File Format
 
-- Student: Emad Farooqui
-- Register number: 192511019
+- Student: SHAIK SAMEER PASHA
+- Register number: 192425383
 - Java version: Microsoft OpenJDK 17.0.20
 
 This folder contains the two required record layouts, SIMATS-style pseudocode for add/find/list operations, failure handling and the comparison with fixed-length `RandomAccessFile` records. Part A is intentionally design and pseudocode only.
